@@ -1,3 +1,8 @@
+# Modified quantum based diffusion model
+
+This is a repo used in Quantum diffusion model. 
+
+
 # GSOC Quantum Diffusion Model
 
 This is a research project for ML4Sci with Google Summer of Code aimed at building a quantum denoising diffusion model.
